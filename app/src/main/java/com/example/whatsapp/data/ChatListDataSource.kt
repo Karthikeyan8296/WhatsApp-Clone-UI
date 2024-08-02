@@ -10,7 +10,7 @@ val chatList = listOf(
     ChatListDataObject(
         chatID = 1,
         message = Message(
-            content = "Hey, what's up",
+            content = "Hi, Lets meet",
             timeStamp = "25/07/20024",
             type = MessageType.TEXT,
             deliveryStatus = MessageDeliveryStatus.DELIVERED
